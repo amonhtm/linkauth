@@ -1,0 +1,5 @@
+main: dev.amonhtm.linkauth.LinkAuth
+name: linkauth
+
+version: 1.0
+api-version: 1.16
